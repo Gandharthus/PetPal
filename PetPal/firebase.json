@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "PetPal",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

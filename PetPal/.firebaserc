@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "petfeeder-e077b": {
+      "hosting": {
+        "PetPal": [
+          "petfeeder-e077b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "petfeeder-e077b"
+  }
+}
